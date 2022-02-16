@@ -8,6 +8,8 @@
 | 1  | abc | 20 | Female | 
 | 2 | def | 21  | Male |
 
+
+Database reads all block irrespective of how much data is relevant to query
 # Row Store
 
 ![Drawing-4 sketchpad](https://user-images.githubusercontent.com/3725274/154220119-97ddbf62-04a0-4302-8fdb-2bcea645495a.png)

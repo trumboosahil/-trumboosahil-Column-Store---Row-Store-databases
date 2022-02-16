@@ -9,7 +9,7 @@
 | 2 | def | 21  | Male |
 
 
-Database reads all block irrespective of how much data is relevant to query
+Database reads all block irrespective of how much data is relevant to query. when we have same type of data type in block it uses efficient compression to store the data while in case of heterogeniuos data we can not use efficient compression method
 # Row Store
 
 ![Drawing-4 sketchpad](https://user-images.githubusercontent.com/3725274/154220119-97ddbf62-04a0-4302-8fdb-2bcea645495a.png)

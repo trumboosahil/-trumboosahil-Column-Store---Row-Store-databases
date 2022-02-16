@@ -17,3 +17,5 @@
 ![column](https://user-images.githubusercontent.com/3725274/154220523-198dc851-c7ac-4bb9-ba2e-d23a3a13c225.png)
 
 
+So when we do query all names then it will read blocks like aggrefation and sumary then Column database beacuse it reads all data from same place
+When we need to update the data then we need to access all information from student then Row looks better
